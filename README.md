@@ -106,6 +106,10 @@ git clone https://github.com/sasobapriyanjana11/cloud-deployment-assignment.git
 
 4. Access the app at `http://localhost:8081`.
 
+> ⚡ Note: The Cloud SQL instance used for this assignment is currently **stopped** to save free tier credits.  
+> To run the application locally or demo the project, start the instance from the Google Cloud Console. All database data remains intact.
+
+
 ---
 
 ## 🔖 License
