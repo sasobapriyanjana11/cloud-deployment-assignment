@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/cloud-enabled-deployment-in-action-with-aws/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-enabled-deployment-in-action-with-GCP/student-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-enabled-deployment-in-action-with-GCP/pom.xml" />
       </list>
     </option>
   </component>

@@ -28,6 +28,29 @@ This repository contains four projects:
   - DELETE /students/{id}
 - Default port: 8082
 - Configure MongoDB settings
+- 
+### Test StudentService Endpoints using POSTMAN
+**GET all students**
+
+```http
+GET http://localhost:8082/students
+```
+**Save a student**
+
+```http
+POST http://localhost:8082/students
+```
+**Get Student by Id**
+
+```http
+GET http://localhost:8082/students/S001
+```
+## Postman API Documentation
+
+You can view and test the StudentService endpoints using Postman:
+
+[Open Postman Documentation](https://documenter.getpostman.com/view/35386302/2sB3HoozCd)
+
 
 ### 3. media-service
 - Resource: files
