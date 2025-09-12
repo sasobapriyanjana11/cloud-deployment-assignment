@@ -110,7 +110,7 @@ git clone https://github.com/sasobapriyanjana11/cloud-deployment-assignment.git
 
 ## 🔖 License
 
-This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source under the [MIT License](LICENSE).
 
 ---
 
