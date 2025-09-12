@@ -62,6 +62,34 @@ You can view and test the StudentService endpoints using Postman:
 - Default port: 8083
 - Uses local disk storage at `./data/media` by default (override with env var `MEDIA_STORAGE_DIR`).
 
+### Test MediaService Endpoints using POSTMAN
+**Upload a file**
+
+```http
+POST http://localhost:8083/files
+```
+**List all files**
+
+```http
+GET http://localhost:8083/files
+```
+**Download a file**
+
+```http
+GET http://localhost:8083/files/14634099-f4c1-464d-a348-2a53ba5931c0
+```
+
+**Delete a file**
+
+```http
+DELETE http://localhost:8083/files/fcbdb956-f93d-4cb3-b892-b3ea3e8ea142
+```
+## Postman API Documentation
+
+You can view and test the MediaService endpoints using Postman:
+[Open Postman Documentation](https://documenter.getpostman.com/view/35386302/2sB3HoozCd)
+
+
 ## Frontend (frontend-app)
 - React + TypeScript + MUI + Axios + Vite app with 3 sections: Courses, Students, Media
 - Scripts:
