@@ -1,8 +1,8 @@
 # cloud-deployment-assignment
 
-Name: Sasoba Priyanjana Nethmee
-Student Registration Number: 2301682007
-Email Address: sasobazxc@gmail.com
+- Name: Sasoba Priyanjana Nethmee
+- Student Registration Number: 2301682007
+- Email Address: sasoba.zxc@gmail.com
 
 ## 📌 Overview
 
