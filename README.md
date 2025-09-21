@@ -1,6 +1,11 @@
 # cloud-deployment-assignment
 
+Name: Sasoba Priyanjana Nethmee
+Student Registration Number: 2301682007
+Email Address: sasobazxc@gmail.com
+
 ## 📌 Overview
+
 This repository contains my practical assignment submission for [Enterprise Cloud Architecture]. It demonstrates how to set up a Spring Boot application connected to a MySQL database hosted on Google Cloud SQL.  
 
 ---
